@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Ventas"
+  },
+  {
+    "id": 2,
+    "name": "Salario"
+  },
+  {
+    "id": 3,
+    "name": "Comida"
+  },
+  {
+    "id": 4,
+    "name": "Transporte"
+  },
+  {
+    "id": 5,
+    "name": "Servicios"
+  },
+  {
+    "id": 6,
+    "name": "Alquiler"
+  },
+  {
+    "id": 7,
+    "name": "Marketing"
+  },
+  {
+    "id": 8,
+    "name": "Otros"
+  }
+]
